@@ -1,4 +1,4 @@
-name: gps_new
+name: wifi
 channels:
   - conda-forge
   - defaults
@@ -11,8 +11,8 @@ dependencies:
   - bleach=4.1.0=pyhd3eb1b0_0
   - branca=0.4.2=pyhd8ed1ab_0
   - brotlipy=0.7.0=py38h294d835_1003
-  - ca-certificates=2021.10.8=h5b45459_0
-  - certifi=2021.10.8=py38haa244fe_1
+  - ca-certificates=2021.10.26=haa95532_4
+  - certifi=2021.10.8=py38haa95532_2
   - cffi=1.15.0=py38h2bbff1b_0
   - charset-normalizer=2.0.10=pyhd8ed1ab_0
   - colorama=0.4.4=pyhd3eb1b0_0
@@ -72,7 +72,7 @@ dependencies:
   - numpy=1.19.2=py38hadc3359_0
   - numpy-base=1.19.2=py38ha3acd2a_0
   - olefile=0.46=pyhd3eb1b0_0
-  - openssl=1.1.1l=h8ffe710_0
+  - openssl=1.1.1m=h2bbff1b_0
   - packaging=21.3=pyhd3eb1b0_0
   - pandas=1.2.4=py38hd77b12b_0
   - pandocfilters=1.4.3=py38haa95532_1
