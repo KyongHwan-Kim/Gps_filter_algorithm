@@ -15,19 +15,19 @@
 3. Create Anaconda Virtual Enviroment
    1. Execute Anaconda prompt
    2. Go to Downdoal code Directory
-      '''
+      ```bash
       cd c\user\download\Gps_filter_algorithm
-      '''
+      ```
    3. Create Virtual Environment
-      '''
+      ```bash
       conda env create -f environment.yml
-      '''
+      ```
    4. Move environment
-      '''
+      ```bash
       conda activate wifi
-      '''
+      ```
    5. Execute jupyter notebook
-      '''
+      ```bash
       (wifi) >> jupyter notebook
-      '''
+      ```
 4. Run Code
