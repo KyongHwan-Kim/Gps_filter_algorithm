@@ -11,10 +11,13 @@
 2. Download Github Code
    - Code -> Download ZIP
    - UnZip Code
-   - Unzip gps data set (in Code Directory not create new one)
+   - Unzip gps data set (in Code Directory, not create new one)
 3. Create Anaconda Virtual Enviroment
    1. Execute Anaconda prompt
-   2. Go to Downdoal code Directory
+      ```bash
+      (base) >> ..
+      ```
+   2. Go to Download code Directory
       ```bash
       cd c\user\download\Gps_filter_algorithm
       ```
@@ -30,4 +33,4 @@
       ```bash
       (wifi) >> jupyter notebook
       ```
-4. Run Code
+4. Run Code in jupyter notebook
